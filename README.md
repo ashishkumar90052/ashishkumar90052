@@ -14,8 +14,7 @@
 ### Languages and Tools:
 <p align="left"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> &nbsp; &nbsp;
    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> &nbsp; &nbsp; <img src="https://angular.io/assets/images/logos/angularjs/AngularJS-Shield.svg" alt="Angular" width="40" height="40"/> &nbsp; &nbsp;  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>&nbsp; &nbsp; <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png" alt="HTML5" width="40" height="40"/>&nbsp; &nbsp; <img src="https://www.joykal.com/wp-content/uploads/2019/09/css3.png" alt="CSS3" width="40" height="40"/>&nbsp; &nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/768px-Unofficial_JavaScript_logo_2.svg.png" alt="Javascript" width="40" height="40"/> &nbsp; &nbsp; <img src="https://miro.medium.com/max/816/1*mn6bOs7s6Qbao15PMNRyOA.png" alt="Javascript" width="40" height="40"/>
-&nbsp; &nbsp; <img src="https://user-images.githubusercontent.com/2676579/34940598-17cc20f0-f9be-11e7-8c6d-f0190d502d64.png" alt="Postman" width="40" height="40"/>&nbsp; &nbsp;  
-&nbsp; &nbsp; <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" width="40" height="40"/>&nbsp; &nbsp;  </p>
+&nbsp; &nbsp; <img src="https://user-images.githubusercontent.com/2676579/34940598-17cc20f0-f9be-11e7-8c6d-f0190d502d64.png" alt="Postman" width="40" height="40"/> &nbsp; &nbsp; <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" width="40" height="40"/>&nbsp; &nbsp;  </p>
    
 <!--    <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashgoldar&show_icons=true&locale=en&layout=compact" alt="yashgoldar" /></p>
 
